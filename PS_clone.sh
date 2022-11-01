@@ -1,2 +1,2 @@
 #!/bin/bash
-git clone https://github.com/evanandrian/ps_pcureneo.git
+git clone https://github.com/pagelaran/ps_pcureneo.git
